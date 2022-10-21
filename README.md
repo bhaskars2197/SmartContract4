@@ -8,4 +8,4 @@
 5. creation of test classes
 6. Testing the smart contracts
 
-# Please refer to the below screenshots attached in the results folder
+# Please refer to the screenshots attached in the results folder for above mentioned steps
