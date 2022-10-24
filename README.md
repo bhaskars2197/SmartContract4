@@ -1,4 +1,4 @@
-# In this assignment, I was able to learn basic concepts abouth the smartContact and also learnt to Compile and deploy Smart Contracts using Truffle – Ganache -- Drizzle.
+# Learn basic concepts about the smartContact and learn to Compile and deploy Smart Contracts using Truffle, Ganache, Drizzle.
 
 # Following steps were followed:
 1. installation 
@@ -8,4 +8,3 @@
 5. creation of test classes
 6. Testing the smart contracts
 
-# Please refer to the screenshots attached in the results folder for above mentioned steps
